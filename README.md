@@ -4,7 +4,7 @@
   
 - 🧾 **Languages**
   
-- Python (intermediate)
+- #3776AB (intermediate)
 - Spss (basic)
 - R (basic)
 - 📫 **How to reach me**
