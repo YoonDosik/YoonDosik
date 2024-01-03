@@ -10,11 +10,11 @@
 - 📫 **How to reach me**
 - linkedin: https://www.linkedin.com/in/dosik-yoon-91a972213/
 - 📞 **How to reach me** 📞
-<div style="display:flex; flex-direction:row;">
+- <div style="display:flex; flex-direction:row;">
     <a href="mailto:202221075@inu.ac.kr">
         <img src="https://img.shields.io/badge/
         Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-<div style="display:flex; flex-direction:row;">
+- <div style="display:flex; flex-direction:row;">
     <a href="https://www.linkedin.com/in/dosik-yoon-91a972213/">
         <img src="https://img.shields.io/badge/
         Linkedin-0098FF?style=for-the-badge&logo=Linkdein&logoColor=white">
