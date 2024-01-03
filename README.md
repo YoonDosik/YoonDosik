@@ -9,7 +9,7 @@
 ## **Interested** 👀 
 
 - Anomaly Detection
-- Fault Diagnostics % Prognostics
+- Fault Diagnostics & Prognostics
 - Fault Signal Detection
 - Computer Vision
   
