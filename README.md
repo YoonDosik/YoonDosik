@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning ...
 - 
 - 🧾 **Languages**
-- 
+  
 - Python (intermediate)
 - Spss (basic)
 - R (basic)
-- 
+  
 - 📫 **How to reach me**
-- 
+  
 - linkedin: https://www.linkedin.com/in/dosik-yoon-91a972213/
 - email: 202221075@inu.ac.kr
 
