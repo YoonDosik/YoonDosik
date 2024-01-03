@@ -8,9 +8,8 @@
 
 - **Framework**
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
-
 - Spss (basic)
-- R (basic)
+  
 - 📫 **How to reach me**
 - linkedin: https://www.linkedin.com/in/dosik-yoon-91a972213/
 ## 📞 **How to reach me** 📞
