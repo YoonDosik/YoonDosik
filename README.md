@@ -5,7 +5,9 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/dosik-yoon-91a972213/"><img src="https://img.shields.io/badge/Linkedin-0098FF?style=for-the-badge&logo=Linkdein&logoColor=white">
-
+    </a>
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonDosik&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+        
 ## **Interested** 👀 
 
 - Anomaly Detection
@@ -34,19 +36,7 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-- 📫 **How to reach me**
-- linkedin: https://www.linkedin.com/in/dosik-yoon-91a972213/
-## 📞 **How to reach me** 📞
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:202221075@inu.ac.kr">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/dosik-yoon-91a972213/">
-        <img src="https://img.shields.io/badge/
-        Linkedin-0098FF?style=for-the-badge&logo=Linkdein&logoColor=white">
-    </a>
-      
+
 ## **Number of visitors**
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonDosik&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
