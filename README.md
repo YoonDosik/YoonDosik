@@ -2,9 +2,12 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
   
-## 🧾 **Languages**
+## **Skills**
+- **Programming language**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+- **Framework**
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">(intermediate)
 - Spss (basic)
 - R (basic)
 - 📫 **How to reach me**
