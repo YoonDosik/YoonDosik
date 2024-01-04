@@ -8,10 +8,10 @@
 
 ## **Interested** 👀 
 
-- Anomaly Detection
-- Fault Diagnostics & Prognostics
+- Anomaly Detection (e.g., One-class classification, Outlier detection)
+- Fault Diagnostics & Prognostics (e.g., Condition-based monitoring, Prognostics helath management)
 - Fault Signal Detection
-- Computer Vision
+- Computer Vision (e.g., Image, Time-series)
 - Pattern Recognition
 - Generative algorithms (e.g., VAE,GAN & Difussion)
   
