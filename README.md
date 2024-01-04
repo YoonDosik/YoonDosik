@@ -36,6 +36,8 @@
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
+------------------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonDosik&show_icons=true&theme=transparent)
 
 <!---
