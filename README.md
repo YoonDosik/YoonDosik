@@ -12,6 +12,8 @@
 - Fault Diagnostics & Prognostics
 - Fault Signal Detection
 - Computer Vision
+- Pattern Recognition
+- Generative AI (VAE,GAN & Difussion)
   
 ## **Skills**
 - **Programming language**
