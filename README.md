@@ -1,4 +1,4 @@
-## **I’m @YoonDosik**
+## **Welcome my github**
 - 📞 **How to reach me** 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:202221075@inu.ac.kr">
