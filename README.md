@@ -14,7 +14,7 @@
 - Computer Vision (e.g., Image, Time-series)
 - Pattern Recognition
 - Generative algorithms (e.g., VAE,GAN & Difussion)
-  
+
 ## **Skills**
 - **Programming language**
 
